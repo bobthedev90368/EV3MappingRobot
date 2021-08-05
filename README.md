@@ -6,10 +6,8 @@
   
                                                       Bulding Instructions
 Currentlly building instructions are temporailly unavailible.
-                                                      
+
                                                       OS Instructions
-                                                      
-                                                      
                                                       
                                                       Programming Instructions
                                                       
