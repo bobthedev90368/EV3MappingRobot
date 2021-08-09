@@ -11,6 +11,8 @@ Currentlly building instructions are temporailly unavailible.
                                                       
 You will need Ev3 dev strech for the ev3 by ev3 dev availible here: https://www.ev3dev.org/downloads/ or if you want a lego approved version you can get it here: https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3. Once you are done I recomened that you SSH via WIFI or Bluetooth.
 
+                                                      Software Instructions
+                                                      
                                                       Programming Instructions
                                                       
                                                       Documentation
