@@ -12,7 +12,7 @@ Currentlly building instructions are temporailly unavailible.
 You will need Ev3 dev strech for the ev3 by ev3 dev availible here: https://www.ev3dev.org/downloads/ or if you want a lego approved version you can get it here: https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3. Once you are done I recomened that you SSH via WIFI or Bluetooth.
 
                                                       Software Instructions
-For software I recommend you use Microsoft's Visual Studio Code (https://code.visualstudio.com/download) and the EV3 Extension (https://marketplace.visualstudio.com/items?itemName=lego-education.ev3-micropython) for further instructions go to: https://pybricks.com/ev3-micropython/startinstall.html
+For software I recommend you use Microsoft's Visual Studio Code (https://code.visualstudio.com/download) and the EV3 Extension (https://marketplace.visualstudio.com/items?itemName=lego-education.ev3-micropython) Simply search ev3 micropython in the extension window of Visual Studio Code or follow the link and hit install.
                                                       
                                                       Programming Instructions
                                                       
