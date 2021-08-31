@@ -2,8 +2,8 @@
 
                                                    
                                                    Table of Contents:
-<a href="Description"> Description </a> <br>
-<a href="Building-instructions"> Building Instructions </a>
+<a href="#Description"> Description </a> <br>
+<a href="#Building-instructions"> Building Instructions </a>
   <ul id="Description">
     
                                                     EV3MappingRobot
