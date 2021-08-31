@@ -1,11 +1,16 @@
-
+<ul id="top">
 
                                                    
-                                                   EV3MappingRobot
+                                                   Table of Contents:
+<a href="Description"> Description </a> <br>
+<a href="Building-instructions"> Building Instructions </a>
+  <ul id="Description">
+    
+                                                    EV3MappingRobot
 
 
   This is a mapping robot for the EV3 that uses the EV3 home kit but can be converted to using the ultrasonic sensor by changing the "infared" variable and parameters found in the Initialize section of main.py. There is also other un-necassary things like using a lego dimensions toypad, a ps4 remote, and much more. This robot probablly has a function for just about everything.
-  
+  <ul id="Building-instructions">
   
                                                      Bulding Instructions
 Currentlly building instructions are temporailly unavailible.
