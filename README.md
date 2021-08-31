@@ -17,7 +17,13 @@ For software I recommend you use Microsoft's [Visual Studio Code](https://code.v
                                                       Programming Instructions
                                                       
 1. Download this repository, Well obviouslly you are gonna need to download the code before you can run it! :)
-2.
+2. Once you download you are going to need to un-zip the package before you can use it, so exract evrything to a location of your choice
+3. Open Visual Studio Code
+4. Go to File > Open Folder and select the folder you just extracted from the zip file
+5. Your in!
+6. Open the explorer
+7. Click: connect device
+8. Select the appropriate device
 
                                                       Documentation
                                                       
